@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #test
+
 mv ./files/[aA]*.txt ./a/
 mv ./files/[bB]*.txt ./b/
 mv ./files/[cC]*.txt ./c/
