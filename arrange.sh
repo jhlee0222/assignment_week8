@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #test
-mv ./files/[aA]*.txt ./a/
+mv ./file/[aA]*.txt ./a/
 mv ./files/[bB]*.txt ./b/
 mv ./files/[cC]*.txt ./c/
 mv ./files/[dD]*.txt ./d/
